@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfPixelsDEAD.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF Dies pixel0000" x="0" y="0" width="90" height="81"/>
+	<SubTexture name="BF Dies pixel0001" x="100" y="0" width="90" height="81"/>
+	<SubTexture name="BF Dies pixel0002" x="200" y="0" width="90" height="81"/>
+	<SubTexture name="BF Dies pixel0003" x="300" y="0" width="90" height="81"/>
+	<SubTexture name="BF Dies pixel0004" x="400" y="0" width="90" height="81"/>
+	<SubTexture name="BF Dies pixel0005" x="500" y="0" width="90" height="81"/>
+	<SubTexture name="BF Dies pixel0006" x="600" y="0" width="90" height="81"/>
+	<SubTexture name="BF Dies pixel0007" x="600" y="0" width="90" height="81"/>
+	<SubTexture name="RETRY CONFIRM0000" x="0" y="82" width="90" height="81"/>
+	<SubTexture name="RETRY CONFIRM0001" x="100" y="82" width="90" height="81"/>
+	<SubTexture name="RETRY CONFIRM0002" x="200" y="82" width="90" height="81"/>
+	<SubTexture name="RETRY CONFIRM0003" x="300" y="82" width="90" height="81"/>
+	<SubTexture name="RETRY CONFIRM0004" x="400" y="82" width="90" height="81"/>
+	<SubTexture name="RETRY CONFIRM0005" x="500" y="82" width="90" height="81"/>
+	<SubTexture name="RETRY CONFIRM0006" x="600" y="82" width="90" height="81"/>
+	<SubTexture name="RETRY CONFIRM0007" x="600" y="82" width="90" height="81"/>
+	<SubTexture name="Retry Loop0000" x="0" y="164" width="90" height="81"/>
+	<SubTexture name="Retry Loop0001" x="100" y="164" width="90" height="81"/>
+	<SubTexture name="Retry Loop0002" x="200" y="164" width="90" height="81"/>
+	<SubTexture name="Retry Loop0003" x="300" y="164" width="90" height="81"/>
+	<SubTexture name="Retry Loop0004" x="400" y="164" width="90" height="81"/>
+	<SubTexture name="Retry Loop0005" x="500" y="164" width="90" height="81"/>
+	<SubTexture name="Retry Loop0006" x="600" y="164" width="90" height="81"/>
+	<SubTexture name="Retry Loop0007" x="600" y="164" width="90" height="81"/>
+</TextureAtlas>
